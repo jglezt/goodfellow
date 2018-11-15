@@ -16,8 +16,9 @@ https://www.julialang.org
 https://dmlsg.slack.com
 
 ### Study group timeline 
-Chapter1 reviewed by 11/6/18
-Chapter2 done by first week of December
-Chapter3 done by NYE
-Chapter4 done by MLK day 2019
-Chapter5 done by end of February.
+#### Part I
+* Chapter1 reviewed by 11/6/18
+* Chapter2 done by first week of December
+* Chapter3 done by NYE
+* Chapter4 done by MLK day 2019
+* Chapter5 done by end of February.
