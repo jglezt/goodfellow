@@ -13,7 +13,7 @@ https://www.deeplearningbook.org/
 
 https://www.julialang.org
 
-dmlsg.slack.com
+https://dmlsg.slack.com
 
 ### Study group timeline 
 Chapter1 reviewed by 11/6/18
