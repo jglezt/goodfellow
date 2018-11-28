@@ -1,0 +1,35 @@
+name: goodfellow
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - arpack=3.5.0
+  - blas=1.1
+  - ca-certificates=2018.10.15
+  - curl=7.62.0
+  - fftw=3.3.8
+  - gmp=6.1.2
+  - julia=1.0.2
+  - krb5=1.16.2
+  - libcurl=7.62.0
+  - libedit=3.1.20170329
+  - libgcc=7.2.0
+  - libgcc-ng=7.2.0
+  - libgfortran=3.0.0
+  - libgit2=0.27.7
+  - libssh2=1.8.0
+  - libstdcxx-ng=7.2.0
+  - metis=5.1.0
+  - mpfr=4.0.1
+  - ncurses=6.1
+  - openblas=0.2.20
+  - openlibm=0.5.4
+  - openspecfun=0.5.3
+  - openssl=1.0.2p
+  - pcre2=10.23
+  - suitesparse=4.5.6
+  - tbb=2019.2
+  - tk=8.6.9
+  - zlib=1.2.11
+prefix: /home/barton/anaconda3/envs/goodfellow
+
