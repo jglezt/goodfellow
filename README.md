@@ -1,4 +1,5 @@
 # Distributed Machine Learning Study Group
+## ORIGINAL REPOSITORY ELIMINATED. THIS IS A FORK
 
 The purpose of this group is to work through the Deep Learning book written by Ian Goodfellow and Yoshua Bengio and Aaron Courville and express the concepts described using the Julia programming language.
 
